@@ -1,6 +1,6 @@
 # Retail Analytics Dashboard
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.PNG)
 
 An end-to-end retail analytics project built from scratch — from raw CSV to a normalized MySQL database, SQL views with window functions, and an interactive Power BI dashboard with a custom dark theme.
 
